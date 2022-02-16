@@ -6,6 +6,8 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@angular/cli": "^13.2.3"
+    "@angular/cli": "^13.2.3",
+    "@vue/cli": "^4.5.15",
+    "create-react-app": "^5.0.0"
   }
 }
