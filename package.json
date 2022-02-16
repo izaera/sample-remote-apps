@@ -1,0 +1,11 @@
+{
+  "name": "sample-remote-apps",
+  "version": "1.0.0",
+  "repository": "https://github.com/izaera/sample-remote-apps.git",
+  "author": "Iván Zaera Avellón <ivan.zaera@liferay.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@angular/cli": "^13.2.3"
+  }
+}
