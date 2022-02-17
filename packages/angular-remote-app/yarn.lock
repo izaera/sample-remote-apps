@@ -197,6 +197,13 @@
   dependencies:
     tslib "^2.3.0"
 
+"@angular/elements@~13.2.0":
+  version "13.2.2"
+  resolved "http://localhost:4873/@angular%2felements/-/elements-13.2.2.tgz#7ea0f44bf455c128537841de9dd7a2ae594b8490"
+  integrity sha512-jI/gGoNmRDwybvlklz7/dAplb0HcmpcNSukWxxCP2EiYU26mwpp/exfnPajvGMD7pUKD5Pefa7zAhiYfHxOa4w==
+  dependencies:
+    tslib "^2.3.0"
+
 "@angular/forms@~13.2.0":
   version "13.2.2"
   resolved "http://localhost:4873/@angular%2fforms/-/forms-13.2.2.tgz#cdc4f249a85160eab003104d7050f8797a2038a7"
